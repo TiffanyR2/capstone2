@@ -38,10 +38,13 @@
         padding-right: 100px;
        
     }
-    .carousel-caption p, #trail{
+    .carousel-caption p, .carousel-caption ul{
         background-color: rgba(0,0,0, 0.3);
         text-shadow: 0 0 2px black;
         font-weight: bolder;
+    }
+    .carousel-caption li{
+text-align: justify;
     }
    #foot{
             background-image: url(../photos/footi.png);
@@ -54,4 +57,12 @@
         height: 60vw;
         object-fit: cover;
     }
-   
+   #toggle{
+    position: absolute;
+    top: 1rem;
+    left: 1rem;
+    z-index: 999;
+   }
+   #howdy{
+    background-color: lightskyblue;
+   }
