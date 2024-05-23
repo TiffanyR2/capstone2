@@ -2,8 +2,8 @@
 
 ## Home Page
 Home page gives a few facts on each slides about different activities that can be on done, if you scroll down a bit you will see the mountain footer.
-<img alt="Home Page" width= 100% src="./photos/homepage-screenshot.jpeg">
-<img alt="Home Page" width= 100% src="./photos/homepages-screenshot.jpeg">
+<img alt="Home Page" width= 100% src="./photos/homepage-screenshot.jpeg"><br>
+<img alt="Home Page" width= 100% src="./photos/homepages-screenshot.jpeg"><br>
 <img alt="Home Page" width= 100% src="./photos/home-screenshot.jpeg">
 
 ## My Parks Page
