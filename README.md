@@ -17,3 +17,4 @@ The Mountain Page is topped with a nice clean background of the Himalayan Mounta
 <img alt="Mountain Page" width= 100% src="./photos/mountains-screenshot.jpeg">
 
 ## LIVE VISUAL LINK
+https://github.com/TiffanyR2/capstone2.git
