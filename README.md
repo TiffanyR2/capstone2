@@ -2,9 +2,9 @@
 
 ## Home Page
 Home page gives a few facts on each slides about different activities that can be on done, if you scroll down a bit you will see the mountain footer.
-<img alt="Home Page" width= 100% src="./photos/">
-<img alt="Home Page" width= 100% src="./photos/">
-<img alt="Home Page" width= 100% src="./photos/">
+<img alt="Home Page" width= 100% src="./photos/homepage-screenshot.jpeg">
+<img alt="Home Page" width= 100% src="./photos/homepages-screenshot.jpeg">
+<img alt="Home Page" width= 100% src="./photos/home-screenshot.jpeg">
 
 ## My Parks Page
 The Parks Page gives a clean img of the Grand Canyon background with radios to search the location or even the park type ended with a mountain footer, the color patterens I used is for they particular page.
