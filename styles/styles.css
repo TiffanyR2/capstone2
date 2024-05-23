@@ -1,0 +1,57 @@
+    nav{
+        background-color: white;
+        /* box-shadow: 3px 3px 5px solid black; */
+        align-items:center;
+        display: flex;
+        
+    }
+    nav ul{
+        width: 100%;
+        list-style: none;
+        display: flex;
+        justify-content: right;
+        align-items: center;
+        font-size: x-large;
+        height: 1vh;
+    }
+    nav li{
+        height: 50px;
+    }
+    nav a{
+        height: 100%;
+        padding: 0 30px;
+        text-decoration: none;
+        display: flex;
+        align-items: center;
+        color: black;
+    }
+    nav a:hover{
+        background-color: wheat;
+    }
+    #logos{
+        height: 3rem;
+        align-items: center;
+    }
+    .carousel-caption{
+        top: 200px;
+        padding-left: 100px;
+        padding-right: 100px;
+       
+    }
+    .carousel-caption p, #trail{
+        background-color: rgba(0,0,0, 0.3);
+        text-shadow: 0 0 2px solid black;
+        font-weight: bolder;
+    }
+   #foot{
+            background-image: url(../photos/footi.png);
+            display: flex;
+    background-size:contain;
+    background-repeat:repeat-x;
+    height: 3rem;
+    }
+    .carousel-item img{
+        height: 60vw;
+        object-fit: cover;
+    }
+   

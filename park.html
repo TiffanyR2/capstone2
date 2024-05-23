@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Parks</title>
+    <link rel="stylesheet" href="/styles/parks.css">
+    <script src="./scripts/main.js"></script>
+    <script src="./scripts/nationalParkData.js"></script>
+    <script src="./scripts/parkTypeData.js"></script>
+    <script src="./scripts/locationData.js"></script>
+    <script src="./scripts/parks.js"></script>
+
+</head>
+<body>
+    <nav>
+        <img src="./photos/logo.jpg" alt="logo" id="logos">
+            <ul>
+                <li><a href="index.html">Home</a></li>
+            <li><a href="park.html">Parks</a></li>
+                <li><a href="mountain.html">Mountains</a></li>
+            </ul>
+        </nav>
+<section>
+    <h1>Parks</h1>
+    <h2>Search By:</h2>
+<div id="move">
+    <label><input type="radio" name="searchBy" id="searchByL">Location(State)</label>
+    <br>
+    <label><input type="radio" name="searchBy">Park Type</label>
+</div>
+    <div class="filter">
+        <br>
+        <label id="locationLabel" style="display: none;">Location: <select name="locations" id="locations"></select></label>
+        <label id="parkLabel" style="display: none;">Park Type: <select name="parkType" id="parkType"></select></label>
+
+    </div>
+    <div id="result"></div>
+    </section>
+    <footer id="foot">?</footer>
+
+</body>
+</html>
