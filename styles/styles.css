@@ -24,9 +24,10 @@
         display: flex;
         align-items: center;
         color: black;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     }
     nav a:hover{
-        background-color: wheat;
+        background-color: gold;
     }
     #logos{
         height: 3rem;
@@ -65,4 +66,6 @@ text-align: justify;
    }
    #howdy{
     background-color: lightskyblue;
+    color: black;
+    font-style: italic;
    }

@@ -33,6 +33,7 @@ nav a{
     display: flex;
     align-items: center;
     color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 nav a:hover{
     background-color: rgb(252, 69, 3);
