@@ -65,9 +65,11 @@ text-align: justify;
     top: 1rem;
     left: 1rem;
     z-index: 999;
+    
    }
    #howdy{
     background-color: lightskyblue;
     color: black;
     font-style: italic;
+    border: 2px solid black
    }
