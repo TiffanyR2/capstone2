@@ -38,6 +38,7 @@
         padding-left: 100px;
         padding-right: 100px;
         color: gold;
+        background-color: rgba(0,0,0, 0.2);
        
     }
     .carousel-caption p, .carousel-caption ul{
